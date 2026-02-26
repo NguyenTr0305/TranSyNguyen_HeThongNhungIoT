@@ -1,0 +1,6 @@
+"./Src/main.o"
+"./Src/stm32f401re_gpio.o"
+"./Src/stm32f401re_rcc.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f401retx.o"
